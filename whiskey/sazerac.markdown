@@ -3,13 +3,14 @@
 This is an old drink; I like mine simple:
 
 ### Ingredients
-* 2oz Rye Whiskey (I suggest Redemption)
+* 2oz Rye Whiskey
 * Herbsaint
-* 1/4oz Rich Simple Syrup
+* 1/4oz Simple Syrup
 * Peychaud's Bitters
 * Angostura Bitters
-* Orange Zest
+* Ice
 
+**Garnish With**: Orange Zest
 **Serve In**: Rocks Glass
 
 ### Tools
@@ -20,7 +21,7 @@ This is an old drink; I like mine simple:
 
 ### Directions
 1. Rinse the glass with Herbsaint
-2. In the pint glass, combine the whiskey, simple syrup, five dashes of Peychaud's Bitters, and one dash of Angostura
+2. In the pint glass, combine whiskey, simple syrup, five dashes of Peychaud's Bitters, and one dash of Angostura
 3. Add ice to the pint glass, stir until chilled.
 4. Strain into the serving glass.
 5. Twist orange zest, serve.
