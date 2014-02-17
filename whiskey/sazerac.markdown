@@ -6,8 +6,8 @@ This is an old drink; I like mine simple.
 * 2oz Rye Whiskey
 * Herbsaint or Absinthe
 * 1/4oz Simple Syrup
-* Peychaud's Bitters
-* Angostura Bitters
+* 5 dashes, Peychaud's Bitters
+* 1 dash, Angostura Bitters
 * Ice
 
 **Garnish With**: Orange Zest
