@@ -15,6 +15,15 @@ Jeffery Morgenthaler has done some [good writing](http://www.jeffreymorgenthaler
 * Pint glass
 * Bar spoon
 * Measure
+* Muddler
 
 ### Directions
-1.
+1. Put the simple syrup in the bottom of the rocks glass. Shake in 2-3 dashes bitters.
+2. Twist the peel into the glass. Use a muddler to press the oils from the peel in to the sugar and bitters.
+3. Add 2-3 large ice cubes and the whiskey. Stir fir a moment.
+4. Optional: add a cherry.
+5. Enjoy
+
+#### Notes
+
+You can use almost any aromatic bitters in this cocktail. You can also use bourbon instead of rye; I like the spiciness of good rye, but bourbon brings its own richness to the drink. When I use bourbon, I use even less simple syrup.
