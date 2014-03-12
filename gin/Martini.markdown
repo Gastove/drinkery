@@ -19,17 +19,11 @@ Check this out: _you don't have to have your Martini with an olive._ I don't car
 ### Ingredients
 * 2oz Gin
 * 3/4oz Dry/White Vermouth
-* Any _One_ of:
-
-** Olive
-** Onion
-** Lemon Zest
-** Cucumber Slice
-** Cucumber Peel
+* Any _one_ of: Olive; Onion; Lemon Zest; Cucumber Slice; Cucumber Peel
 
 **Serve In**: Martini Glass _or_ Wide Rocks Glass
 
-**Make Using**: [Stirred Cocktail Technique](../techniques/combine.markdown#Stir)
+**Make Using**: [Stirred Cocktail Technique](../techniques/combine.markdown#stir)
 
 #### Variations
 **Pink Martini**: Add a dash or two of Peychaud's Bitters to the mixing vessel
