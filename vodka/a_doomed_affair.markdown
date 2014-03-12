@@ -12,4 +12,4 @@ I met this cocktail at the Hotsy Totsy Club in El Cerrito, California. Weird, in
 **Finish With**: Lemon Peel
 **Serve In**: Footed Sour or Rocks Glass
 
-**Make Using**: [Stirred Cocktail Technique](../techniques/combine.markdown#Stir)
+**Make Using**: [Stirred Cocktail Technique](../techniques/combine.markdown#stir)
