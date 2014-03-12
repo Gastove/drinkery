@@ -9,9 +9,11 @@ Sometimes, a cocktail takes incredibly specialized steps -- you _must_ execute t
 
 In most cases, you make the following choice
 
-Combine and Serve
-shake        up
-stir         over
+| Combine | and | Serve |
+| ------- |---- | ----- |
+| shake |  | up |
+| | X | |
+| stir |  | over |
 
 Shake or Stir? Remember this rule:
 1. Do you want to see through the drink? Is it spirits-only (*no* fruit juice)? --> Stir
