@@ -30,6 +30,6 @@ Some drinks I **don't** like:
 
 #### How's it organized
 
-Optimisticly.
+Optimistically.
 
 ...seriously, that bit is a work in progress. Stay tuned, or make suggestions.
