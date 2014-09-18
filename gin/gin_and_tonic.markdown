@@ -9,8 +9,8 @@ Quintessential. Easy. Only one rule: garbage in, garbage out. So:
 * 2oz gin
 * 4oz tonic
 * _One_ of:
-** Lime
-** Cucumber Slice
+  * Lime
+  * Cucumber Slice
 * Ice
 
 **Serve In**: A big Rocks Glass
