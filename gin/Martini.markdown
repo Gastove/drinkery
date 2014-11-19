@@ -14,7 +14,7 @@ Check this out: _you don't have to have your Martini with an olive._ I don't car
 
 "Shaken, not stirred" is a great way to get a Martini full of ice flecks, cold and too watery. Let the poor bartender stir it, and stir it yourself. The drink will be substantially better.
 
-**Do note**: this is as simple as a cocktail gets. There's nowhere to hide mediocre ingredients. If all you have is a bottle of crummy gin and a portion of Martini and Rossi, just... skip the Martini that night, OK? Take the time to find a gin you like and care about (I like Broker's, Hendricks, St. George's Botanivore). Use Dolin Blanc vermouth, or something comparably nice.
+**Do note**: this is as simple as a cocktail gets. If you don't like the way one of your ingredients tastes on its own, that ingredient isn't going to have anything to cuddle up with for improvement. If you have a gin you don't enjoy straight but want to mix, the Martini is probably not going to get you there -- consider a [Gin and Tonic](gin_and_tonic.markdown) or a Negroni. Cheap vermouth is more flexible, but you'll still taste the improvement if you can score a bottle of Dolin Blanc. Likewise, if you're able to find a gin you enjoy and you put it in your Martini, you're gonna love that martini. So my advice: care about your Martini, as much as you're able.
 
 ### Ingredients
 * 2oz Gin
