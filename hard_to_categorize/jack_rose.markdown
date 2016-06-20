@@ -21,3 +21,5 @@ Combine ingredients over ice; strain into glass. Can be served up or over.
 
 #### Notes
 Use a quarter-ounce more grenadine if you find bonded Applejack, which is much stronger.
+
+I've been stirring mine, but there's enough fruit juice that shaking wont ruin the clarity, so go for it if you're so incline.
