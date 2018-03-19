@@ -21,4 +21,4 @@
 4. Top with wine
 
 ### Variations
-My favorite variation I call the French 9000 (like a French 75, with the power level WAY UP). To make one, substitute lemon-dominant [_oleo saccharum_](inputs/oleo_saccharum.markdown) for simple syrup. For myself, I also cut the syrup back by 1/2. It's a touch sweeter, brightly lemony.
+My favorite variation I call the French 9000 (like a French 75, with the power level WAY UP). To make one, substitute lemon-dominant [_oleo saccharum_](/inputs/oleo_saccharum.markdown) for simple syrup. For myself, I also cut the syrup back by 1/2. It's a touch sweeter, brightly lemony.
