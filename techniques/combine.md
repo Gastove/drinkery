@@ -16,8 +16,8 @@ In most cases, you make the following choice
 | stir |  | over |
 
 Shake or Stir? Remember this rule:
-1. Do you want to see through the drink? Is it spirits-only (*no* fruit juice)? --> Stir
-2. Is there fruit juice, creme de cacao, or another opaque ingredient in, or does clarity just not matter? --> Shake
+- Do you want to see through the drink? Is it spirits-only (*no* fruit juice)? --> Stir
+- Is there fruit juice, creme de cacao, or another opaque ingredient in, or does clarity just not matter? --> Shake
 
 ### Stir
 #### Tools
@@ -27,7 +27,7 @@ Shake or Stir? Remember this rule:
 * A Serving Glass
 
 #### Technique
-1. Fill your mixing vessel a third to a half full of ice.
+1. Fill your mixing vessel  half full (ish) of ice.
 2. Pour all of your liquid ingredients in to your vessel.
 3. Stir until the outside of the vessel feels **really** cold.
 4. Strain in to the serving glass.
